@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/near_vision_prototype/static/css/main.9f233f05.css",
+    "main.js": "/near_vision_prototype/static/js/main.7650664b.js",
+    "static/js/453.770c81c1.chunk.js": "/near_vision_prototype/static/js/453.770c81c1.chunk.js",
+    "index.html": "/near_vision_prototype/index.html",
+    "main.9f233f05.css.map": "/near_vision_prototype/static/css/main.9f233f05.css.map",
+    "main.7650664b.js.map": "/near_vision_prototype/static/js/main.7650664b.js.map",
+    "453.770c81c1.chunk.js.map": "/near_vision_prototype/static/js/453.770c81c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f233f05.css",
+    "static/js/main.7650664b.js"
+  ]
+}
